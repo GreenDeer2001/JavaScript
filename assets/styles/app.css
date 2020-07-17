@@ -42,7 +42,8 @@ header {
   padding: 0.15rem;
   margin: auto;
   display: block;
-  color: #023d6d;
+  /* color: #023d6d; */
+  color: salmon;
   text-align: center;
 }
 
